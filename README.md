@@ -17,11 +17,19 @@
 </p>
 
 ### :man_technologist: &nbsp;About Me :
-
+- SpringBoot
+- Kubernetes
+- ArgoCD
+- CICD
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
-
+- Java
+- Kotlin
+- Javascript
+- IDEA
+- WebStorm
+- DataGrip
 ---
 
 ### 🔥 &nbsp; My Stats :

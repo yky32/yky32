@@ -2,6 +2,8 @@
 
 Hong Kong · [yky.app](https://yky.app)
 
+![Profile views](https://komarev.com/ghpvc/?username=yky32&style=flat-square&color=4E57AA&label=views)
+
 Every line of code matters.
 
 I build **Spring Boot** systems at Quinsic ([tgt.gg](https://www.tgt.gg)) — Java, Kubernetes, ArgoCD — and ship small products on the side.
